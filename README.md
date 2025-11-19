@@ -335,4 +335,5 @@ MIT License - Free for commercial use
 ⚡ Optimized for: Lighthouse 95+, Core Web Vitals, Mobile-first
 💼 Ideal for: Web agencies, freelancers, restaurant owners
 #   w h a t s - m e n u  
+ #   w h a t s - m e n u  
  
