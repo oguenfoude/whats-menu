@@ -334,3 +334,5 @@ MIT License - Free for commercial use
 🎯 Perfect for: French restaurants, bistros, cafés, fine dining, casual dining
 ⚡ Optimized for: Lighthouse 95+, Core Web Vitals, Mobile-first
 💼 Ideal for: Web agencies, freelancers, restaurant owners
+#   w h a t s - m e n u  
+ 
