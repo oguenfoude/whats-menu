@@ -4,6 +4,10 @@
 
 This is a **production-ready**, **ultra-fast** restaurant landing page template with premium animations and modern design. Perfect for selling to restaurants or deploying immediately.
 
+## Screenshot
+
+![Home](screenshots/home.png)
+
 ### 🎯 Key Highlights
 
 - ⚡ **Blazing Fast** - Lighthouse score 95+ (Next.js 16 + Turbopack)
